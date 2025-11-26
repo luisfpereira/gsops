@@ -10,7 +10,7 @@ authors = [
 ]
 name = "gsops"
 dynamic = ["version"]
-readme = "README.rst"
+readme = "README.md"
 description = "Geomstats backend in isolation."
 license = { file = "LICENSE.md" }
 classifiers = [
